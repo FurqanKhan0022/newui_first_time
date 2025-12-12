@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;0,700;1,200;1,400;1,500;1,600&display=swap');
+*{
+    font-family: 'Poppins', sans-serif !important;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.header{
+    width: 100%;
+    height: 95vh;
+    background-color:#6DB2FF;
+    
+}
+#navbar-brand{
+    color: white;
+    
+}
+#nav-link{
+    color: white;
+}
+#nav-link1{
+color:white;
+border: 2px solid #FB897C;
+background-color: #FB897C;
+border-radius: 4px 4px 4px 4px;
+width: 80px;
+height: 40px;
+}
+#headerbody{
+    position: relative;
+    top: 40px;
+}
+#headerp{
+    color: white;
+}
+#headerh1{
+font-size: 40px;
+
+    color: white;
+}
+#headerp2{
+    color: white;
+}
+
+#seeall{
+    color: white;
+    border: 2px solid #FB897C;
+    background-color: #FB897C;
+width: 90px;
+border-radius: 3px 3px 3px 3px;
+
+}
+#fire{
+    position: relative;
+    left: -26px;
+    top: 14px;
+}
+#fire1{
+    position: relative;
+    top: 13px;
+}
+footer{
+    background-color: #6DB2FF;
+width: 100%;
+height: 100%;
+}
+#footer{
+background-image: url("bg.png");
+background-size:360px ;
+background-position-y: 230px;
+background-repeat: no-repeat;
+}
+
+#bgimg{
+    
+    position: relative;
+    top: 120px;
+    /* left: px; */
+}
+
+#footerh1{
+color: white;    
+position: relative;
+top: 130px;
+}
+#ifooter{
+    position: relative;
+    left: -15px;
+    top: 60px;
+}
+#ifooter1{
+position: relative;
+top:60px ;
+left: 29px;
+}
+
+#title{
+ 
+    position: relative;
+    left: 100px;
+    width: 66%;
+    
+}
+.footerp{
+    width: 70%;
+    position: relative;
+
+    left: 100px;
+}
+#newlast{
+    color: white;
+}
+#alllast{
+    color: white;
+    border: 2px solid #FB897C;
+    background-color: #FB897C;
+width:50px;
+font-size: 15px;
+    text-align: center;
+    border-radius: 3px 3px 3px 3px;
+}
+#ps4{
+    color: white;
+}
+#ps5{
+    color: white;
+}
+#Xbox{
+    color: white;
+}
+#fulllast{
+    color: white;
+    width: 100%;;
+}
+#lastpp{
+    color: #6DB2FF;
+
+}
+#lastpp1{
+    color: #6DB2FF;
+    position: relative;
+    top: 90px;
+}
+
+#lastv1{
+    position: relative;
+   
+    top: 95px;
+}
